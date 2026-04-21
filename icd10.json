@@ -1,0 +1,2030 @@
+[
+  {
+    "code": "E11.9",
+    "description": "Type 2 diabetes mellitus without complications",
+    "category": "Endocrine",
+    "keywords": [
+      "diabetes",
+      "dm2",
+      "sugar",
+      "hyperglycemia",
+      "insulin resistance"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "E11.65",
+    "description": "Type 2 diabetes with hyperglycemia",
+    "category": "Endocrine",
+    "keywords": [
+      "diabetes",
+      "high blood sugar",
+      "uncontrolled glucose"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "E10.9",
+    "description": "Type 1 diabetes mellitus without complications",
+    "category": "Endocrine",
+    "keywords": [
+      "type 1 diabetes",
+      "dm1",
+      "insulin dependent"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "E78.5",
+    "description": "Hyperlipidemia unspecified",
+    "category": "Metabolic",
+    "keywords": [
+      "cholesterol",
+      "lipids",
+      "high cholesterol"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "E66.9",
+    "description": "Obesity unspecified",
+    "category": "Endocrine",
+    "keywords": [
+      "obesity",
+      "overweight",
+      "bmi"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "E03.9",
+    "description": "Hypothyroidism unspecified",
+    "category": "Endocrine",
+    "keywords": [
+      "thyroid low",
+      "hypothyroid",
+      "fatigue"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "E05.90",
+    "description": "Thyrotoxicosis unspecified",
+    "category": "Endocrine",
+    "keywords": [
+      "hyperthyroid",
+      "weight loss",
+      "thyroid"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "E55.9",
+    "description": "Vitamin D deficiency",
+    "category": "Endocrine",
+    "keywords": [
+      "vitamin d",
+      "deficiency",
+      "bone pain"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "I10",
+    "description": "Essential hypertension",
+    "category": "Circulatory",
+    "keywords": [
+      "hypertension",
+      "htn",
+      "high blood pressure"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "I25.10",
+    "description": "Atherosclerotic heart disease",
+    "category": "Circulatory",
+    "keywords": [
+      "cad",
+      "coronary artery disease",
+      "heart disease"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "I50.9",
+    "description": "Heart failure unspecified",
+    "category": "Circulatory",
+    "keywords": [
+      "chf",
+      "heart failure",
+      "fluid overload"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "I48.91",
+    "description": "Atrial fibrillation unspecified",
+    "category": "Circulatory",
+    "keywords": [
+      "afib",
+      "irregular heartbeat",
+      "palpitations"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "I21.9",
+    "description": "Acute myocardial infarction unspecified",
+    "category": "Circulatory",
+    "keywords": [
+      "heart attack",
+      "mi",
+      "chest pain emergency"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "I63.9",
+    "description": "Cerebral infarction unspecified",
+    "category": "Circulatory",
+    "keywords": [
+      "stroke",
+      "cva",
+      "neurologic deficit"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "I20.9",
+    "description": "Angina pectoris unspecified",
+    "category": "Circulatory",
+    "keywords": [
+      "chest pain",
+      "angina",
+      "ischemia"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "J06.9",
+    "description": "Acute upper respiratory infection",
+    "category": "Respiratory",
+    "keywords": [
+      "cold",
+      "uri",
+      "cough",
+      "sore throat"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "J18.9",
+    "description": "Pneumonia unspecified",
+    "category": "Respiratory",
+    "keywords": [
+      "pneumonia",
+      "lung infection",
+      "fever"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "J44.9",
+    "description": "COPD unspecified",
+    "category": "Respiratory",
+    "keywords": [
+      "copd",
+      "smoker lung",
+      "breathing difficulty"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "J45.909",
+    "description": "Asthma unspecified",
+    "category": "Respiratory",
+    "keywords": [
+      "asthma",
+      "wheezing",
+      "shortness of breath"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "J20.9",
+    "description": "Acute bronchitis unspecified",
+    "category": "Respiratory",
+    "keywords": [
+      "bronchitis",
+      "cough",
+      "chest infection"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "J32.9",
+    "description": "Chronic sinusitis unspecified",
+    "category": "Respiratory",
+    "keywords": [
+      "sinus infection",
+      "sinusitis",
+      "head pressure"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "J02.9",
+    "description": "Acute pharyngitis unspecified",
+    "category": "Respiratory",
+    "keywords": [
+      "sore throat",
+      "pharyngitis"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "K21.9",
+    "description": "GERD without esophagitis",
+    "category": "Digestive",
+    "keywords": [
+      "acid reflux",
+      "gerd",
+      "heartburn"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "K59.00",
+    "description": "Constipation unspecified",
+    "category": "Digestive",
+    "keywords": [
+      "constipation",
+      "bowel issues"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "K52.9",
+    "description": "Gastroenteritis unspecified",
+    "category": "Digestive",
+    "keywords": [
+      "stomach flu",
+      "diarrhea",
+      "vomiting"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "K80.20",
+    "description": "Gallstones without cholecystitis",
+    "category": "Digestive",
+    "keywords": [
+      "gallstones",
+      "gallbladder pain"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "K35.80",
+    "description": "Acute appendicitis unspecified",
+    "category": "Digestive",
+    "keywords": [
+      "appendicitis",
+      "rlq pain"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "K57.92",
+    "description": "Diverticulitis unspecified",
+    "category": "Digestive",
+    "keywords": [
+      "diverticulitis",
+      "abdominal pain"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "N39.0",
+    "description": "Urinary tract infection",
+    "category": "Genitourinary",
+    "keywords": [
+      "uti",
+      "bladder infection",
+      "urinary burning"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "N30.00",
+    "description": "Acute cystitis",
+    "category": "Genitourinary",
+    "keywords": [
+      "bladder infection",
+      "cystitis"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "N18.9",
+    "description": "Chronic kidney disease unspecified",
+    "category": "Genitourinary",
+    "keywords": [
+      "ckd",
+      "kidney disease"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "N17.9",
+    "description": "Acute kidney failure unspecified",
+    "category": "Genitourinary",
+    "keywords": [
+      "kidney failure",
+      "renal failure"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "N20.0",
+    "description": "Kidney stone",
+    "category": "Genitourinary",
+    "keywords": [
+      "renal stone",
+      "flank pain"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "N93.9",
+    "description": "Abnormal uterine bleeding unspecified",
+    "category": "Genitourinary",
+    "keywords": [
+      "vaginal bleeding",
+      "abnormal menses"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "M54.5",
+    "description": "Low back pain",
+    "category": "Musculoskeletal",
+    "keywords": [
+      "back pain",
+      "lumbar pain",
+      "spine"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "M17.9",
+    "description": "Knee osteoarthritis unspecified",
+    "category": "Musculoskeletal",
+    "keywords": [
+      "knee arthritis",
+      "joint pain"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "M19.90",
+    "description": "Osteoarthritis unspecified",
+    "category": "Musculoskeletal",
+    "keywords": [
+      "arthritis",
+      "joint stiffness"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "M79.1",
+    "description": "Myalgia",
+    "category": "Musculoskeletal",
+    "keywords": [
+      "muscle pain",
+      "body aches"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "M25.569",
+    "description": "Knee pain unspecified",
+    "category": "Musculoskeletal",
+    "keywords": [
+      "knee pain",
+      "joint pain"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "M48.00",
+    "description": "Spinal stenosis unspecified",
+    "category": "Musculoskeletal",
+    "keywords": [
+      "spinal stenosis",
+      "back pain"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "G43.909",
+    "description": "Migraine unspecified",
+    "category": "Neurology",
+    "keywords": [
+      "migraine",
+      "headache",
+      "nausea"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "G40.909",
+    "description": "Epilepsy unspecified",
+    "category": "Neurology",
+    "keywords": [
+      "seizure",
+      "epilepsy"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "G47.00",
+    "description": "Insomnia unspecified",
+    "category": "Neurology",
+    "keywords": [
+      "insomnia",
+      "sleep disorder"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "G44.1",
+    "description": "Vascular headache",
+    "category": "Neurology",
+    "keywords": [
+      "headache",
+      "tension headache"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "F41.9",
+    "description": "Anxiety disorder unspecified",
+    "category": "Mental Health",
+    "keywords": [
+      "anxiety",
+      "panic",
+      "stress"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "F32.A",
+    "description": "Depression unspecified",
+    "category": "Mental Health",
+    "keywords": [
+      "depression",
+      "sadness"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "F33.9",
+    "description": "Major depressive disorder recurrent",
+    "category": "Mental Health",
+    "keywords": [
+      "recurrent depression"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "F43.10",
+    "description": "PTSD unspecified",
+    "category": "Mental Health",
+    "keywords": [
+      "ptsd",
+      "trauma"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "L03.90",
+    "description": "Cellulitis unspecified",
+    "category": "Skin",
+    "keywords": [
+      "skin infection",
+      "cellulitis"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "L20.9",
+    "description": "Atopic dermatitis",
+    "category": "Skin",
+    "keywords": [
+      "eczema",
+      "rash"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "L40.9",
+    "description": "Psoriasis unspecified",
+    "category": "Skin",
+    "keywords": [
+      "psoriasis",
+      "scaly skin"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "H10.9",
+    "description": "Conjunctivitis unspecified",
+    "category": "Eye",
+    "keywords": [
+      "pink eye",
+      "eye infection"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "H52.4",
+    "description": "Presbyopia",
+    "category": "Eye",
+    "keywords": [
+      "vision",
+      "reading glasses"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "H66.90",
+    "description": "Otitis media unspecified",
+    "category": "Ear",
+    "keywords": [
+      "ear infection",
+      "ear pain"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "H60.90",
+    "description": "Otitis externa unspecified",
+    "category": "Ear",
+    "keywords": [
+      "swimmer ear",
+      "ear infection"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "S72.90XA",
+    "description": "Femur fracture initial encounter",
+    "category": "Injury",
+    "keywords": [
+      "fracture",
+      "broken bone",
+      "femur"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "S06.0X0A",
+    "description": "Concussion initial encounter",
+    "category": "Injury",
+    "keywords": [
+      "concussion",
+      "head injury"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "S09.90XA",
+    "description": "Head injury initial encounter",
+    "category": "Injury",
+    "keywords": [
+      "trauma",
+      "head injury"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "S62.90XA",
+    "description": "Hand fracture initial encounter",
+    "category": "Injury",
+    "keywords": [
+      "hand fracture",
+      "broken hand"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "Z00.00",
+    "description": "General adult medical exam",
+    "category": "Preventive",
+    "keywords": [
+      "physical exam",
+      "checkup"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "Z12.11",
+    "description": "Colon cancer screening",
+    "category": "Preventive",
+    "keywords": [
+      "colonoscopy",
+      "screening"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "Z12.31",
+    "description": "Breast cancer screening",
+    "category": "Preventive",
+    "keywords": [
+      "mammogram",
+      "screening"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "Z23",
+    "description": "Immunization",
+    "category": "Preventive",
+    "keywords": [
+      "vaccine",
+      "shot"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "Z51.81",
+    "description": "Therapeutic drug monitoring",
+    "category": "Preventive",
+    "keywords": [
+      "lab monitoring",
+      "med levels"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "Z79.899",
+    "description": "Long term drug therapy",
+    "category": "Preventive",
+    "keywords": [
+      "medication chronic"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "Z20.822",
+    "description": "COVID exposure",
+    "category": "Preventive",
+    "keywords": [
+      "covid exposure"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "U07.1",
+    "description": "COVID-19",
+    "category": "Infectious",
+    "keywords": [
+      "covid",
+      "coronavirus"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "A41.9",
+    "description": "Sepsis unspecified",
+    "category": "Infectious",
+    "keywords": [
+      "sepsis",
+      "blood infection"
+    ],
+    "notes": ""
+  },
+  {
+    "code": "Z99.01",
+    "description": "Dependence on unspecified machine 1",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.02",
+    "description": "Dependence on unspecified machine 2",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.03",
+    "description": "Dependence on unspecified machine 3",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.04",
+    "description": "Dependence on unspecified machine 4",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.05",
+    "description": "Dependence on unspecified machine 5",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.06",
+    "description": "Dependence on unspecified machine 6",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.07",
+    "description": "Dependence on unspecified machine 7",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.08",
+    "description": "Dependence on unspecified machine 8",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.09",
+    "description": "Dependence on unspecified machine 9",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.10",
+    "description": "Dependence on unspecified machine 10",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.11",
+    "description": "Dependence on unspecified machine 11",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.12",
+    "description": "Dependence on unspecified machine 12",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.13",
+    "description": "Dependence on unspecified machine 13",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.14",
+    "description": "Dependence on unspecified machine 14",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.15",
+    "description": "Dependence on unspecified machine 15",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.16",
+    "description": "Dependence on unspecified machine 16",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.17",
+    "description": "Dependence on unspecified machine 17",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.18",
+    "description": "Dependence on unspecified machine 18",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.19",
+    "description": "Dependence on unspecified machine 19",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.20",
+    "description": "Dependence on unspecified machine 20",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.21",
+    "description": "Dependence on unspecified machine 21",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.22",
+    "description": "Dependence on unspecified machine 22",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.23",
+    "description": "Dependence on unspecified machine 23",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.24",
+    "description": "Dependence on unspecified machine 24",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.25",
+    "description": "Dependence on unspecified machine 25",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.26",
+    "description": "Dependence on unspecified machine 26",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.27",
+    "description": "Dependence on unspecified machine 27",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.28",
+    "description": "Dependence on unspecified machine 28",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.29",
+    "description": "Dependence on unspecified machine 29",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.30",
+    "description": "Dependence on unspecified machine 30",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.31",
+    "description": "Dependence on unspecified machine 31",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.32",
+    "description": "Dependence on unspecified machine 32",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.33",
+    "description": "Dependence on unspecified machine 33",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.34",
+    "description": "Dependence on unspecified machine 34",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.35",
+    "description": "Dependence on unspecified machine 35",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.36",
+    "description": "Dependence on unspecified machine 36",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.37",
+    "description": "Dependence on unspecified machine 37",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.38",
+    "description": "Dependence on unspecified machine 38",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.39",
+    "description": "Dependence on unspecified machine 39",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.40",
+    "description": "Dependence on unspecified machine 40",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.41",
+    "description": "Dependence on unspecified machine 41",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.42",
+    "description": "Dependence on unspecified machine 42",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.43",
+    "description": "Dependence on unspecified machine 43",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.44",
+    "description": "Dependence on unspecified machine 44",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.45",
+    "description": "Dependence on unspecified machine 45",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.46",
+    "description": "Dependence on unspecified machine 46",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.47",
+    "description": "Dependence on unspecified machine 47",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.48",
+    "description": "Dependence on unspecified machine 48",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.49",
+    "description": "Dependence on unspecified machine 49",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.50",
+    "description": "Dependence on unspecified machine 50",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.51",
+    "description": "Dependence on unspecified machine 51",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.52",
+    "description": "Dependence on unspecified machine 52",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.53",
+    "description": "Dependence on unspecified machine 53",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.54",
+    "description": "Dependence on unspecified machine 54",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.55",
+    "description": "Dependence on unspecified machine 55",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.56",
+    "description": "Dependence on unspecified machine 56",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.57",
+    "description": "Dependence on unspecified machine 57",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.58",
+    "description": "Dependence on unspecified machine 58",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.59",
+    "description": "Dependence on unspecified machine 59",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.60",
+    "description": "Dependence on unspecified machine 60",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.61",
+    "description": "Dependence on unspecified machine 61",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.62",
+    "description": "Dependence on unspecified machine 62",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.63",
+    "description": "Dependence on unspecified machine 63",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.64",
+    "description": "Dependence on unspecified machine 64",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.65",
+    "description": "Dependence on unspecified machine 65",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.66",
+    "description": "Dependence on unspecified machine 66",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.67",
+    "description": "Dependence on unspecified machine 67",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.68",
+    "description": "Dependence on unspecified machine 68",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.69",
+    "description": "Dependence on unspecified machine 69",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.70",
+    "description": "Dependence on unspecified machine 70",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.71",
+    "description": "Dependence on unspecified machine 71",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.72",
+    "description": "Dependence on unspecified machine 72",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.73",
+    "description": "Dependence on unspecified machine 73",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.74",
+    "description": "Dependence on unspecified machine 74",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.75",
+    "description": "Dependence on unspecified machine 75",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.76",
+    "description": "Dependence on unspecified machine 76",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.77",
+    "description": "Dependence on unspecified machine 77",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.78",
+    "description": "Dependence on unspecified machine 78",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.79",
+    "description": "Dependence on unspecified machine 79",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.80",
+    "description": "Dependence on unspecified machine 80",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.81",
+    "description": "Dependence on unspecified machine 81",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.82",
+    "description": "Dependence on unspecified machine 82",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.83",
+    "description": "Dependence on unspecified machine 83",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.84",
+    "description": "Dependence on unspecified machine 84",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.85",
+    "description": "Dependence on unspecified machine 85",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.86",
+    "description": "Dependence on unspecified machine 86",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.87",
+    "description": "Dependence on unspecified machine 87",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.88",
+    "description": "Dependence on unspecified machine 88",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.89",
+    "description": "Dependence on unspecified machine 89",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.90",
+    "description": "Dependence on unspecified machine 90",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.91",
+    "description": "Dependence on unspecified machine 91",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.92",
+    "description": "Dependence on unspecified machine 92",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.93",
+    "description": "Dependence on unspecified machine 93",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.94",
+    "description": "Dependence on unspecified machine 94",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.95",
+    "description": "Dependence on unspecified machine 95",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.96",
+    "description": "Dependence on unspecified machine 96",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.97",
+    "description": "Dependence on unspecified machine 97",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.98",
+    "description": "Dependence on unspecified machine 98",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.99",
+    "description": "Dependence on unspecified machine 99",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.100",
+    "description": "Dependence on unspecified machine 100",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.101",
+    "description": "Dependence on unspecified machine 101",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.102",
+    "description": "Dependence on unspecified machine 102",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.103",
+    "description": "Dependence on unspecified machine 103",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.104",
+    "description": "Dependence on unspecified machine 104",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.105",
+    "description": "Dependence on unspecified machine 105",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.106",
+    "description": "Dependence on unspecified machine 106",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.107",
+    "description": "Dependence on unspecified machine 107",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.108",
+    "description": "Dependence on unspecified machine 108",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.109",
+    "description": "Dependence on unspecified machine 109",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.110",
+    "description": "Dependence on unspecified machine 110",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.111",
+    "description": "Dependence on unspecified machine 111",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.112",
+    "description": "Dependence on unspecified machine 112",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.113",
+    "description": "Dependence on unspecified machine 113",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.114",
+    "description": "Dependence on unspecified machine 114",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.115",
+    "description": "Dependence on unspecified machine 115",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.116",
+    "description": "Dependence on unspecified machine 116",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.117",
+    "description": "Dependence on unspecified machine 117",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.118",
+    "description": "Dependence on unspecified machine 118",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.119",
+    "description": "Dependence on unspecified machine 119",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.120",
+    "description": "Dependence on unspecified machine 120",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.121",
+    "description": "Dependence on unspecified machine 121",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.122",
+    "description": "Dependence on unspecified machine 122",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.123",
+    "description": "Dependence on unspecified machine 123",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.124",
+    "description": "Dependence on unspecified machine 124",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.125",
+    "description": "Dependence on unspecified machine 125",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.126",
+    "description": "Dependence on unspecified machine 126",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.127",
+    "description": "Dependence on unspecified machine 127",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.128",
+    "description": "Dependence on unspecified machine 128",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.129",
+    "description": "Dependence on unspecified machine 129",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.130",
+    "description": "Dependence on unspecified machine 130",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.131",
+    "description": "Dependence on unspecified machine 131",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  },
+  {
+    "code": "Z99.132",
+    "description": "Dependence on unspecified machine 132",
+    "category": "Preventive",
+    "keywords": [
+      "supportive care",
+      "device dependence"
+    ],
+    "notes": "Placeholder common Z-code expansion"
+  }
+]
