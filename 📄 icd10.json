@@ -1,0 +1,14 @@
+[
+  {
+    "code": "E11.9",
+    "description": "Type 2 diabetes mellitus without complications",
+    "category": "Endocrine",
+    "keywords": ["diabetes", "dm2", "sugar", "hyperglycemia"]
+  },
+  {
+    "code": "I10",
+    "description": "Essential hypertension",
+    "category": "Circulatory",
+    "keywords": ["hypertension", "htn", "high blood pressure"]
+  }
+]
